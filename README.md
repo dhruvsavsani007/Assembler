@@ -10,7 +10,7 @@ For use this assembler...
 	
 	Assembler.exe [your Assembly text file location] 
 
-3.You see 2 files in Assembly folder 
+3.You will see 2 files in Assembly folder 
 
 	1)Binarycode.txt(which is binarycode of your Assembly Code)
 	2)Hexcode.txt(which is hexcode of your Assembly code)
