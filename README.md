@@ -15,4 +15,4 @@ For use this assembler...
 	1)Binarycode.txt(which is binarycode of your Assembly Code)
 	2)Hexcode.txt(which is hexcode of your Assembly code)
 
-CPU github Link : https://github.com/dhruvsavsani007/Logisim
+CPU Github Link : https://github.com/dhruvsavsani007/Logisim
