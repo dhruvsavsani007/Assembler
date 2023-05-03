@@ -1,6 +1,6 @@
 # Assembler
 
-Hii guys here i make Assembler using python for CPU Morris Mano[exclude I/O Instructions](I design this CPU also please checkout)
+Hello guys here I created Assembler using python for CPU Morris Mano[exclude I/O Instructions](I design this CPU also please checkout)
 
 For use this assembler...
 
